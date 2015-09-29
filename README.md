@@ -1,5 +1,7 @@
 # Human Activity Recognition Using Smartphones
 
+Attention! In order to script work correctly your working directory should be set to "UCI HAR Dataset"
+
 description of run_analysis.R:
 
 1. loads necessary libraries
