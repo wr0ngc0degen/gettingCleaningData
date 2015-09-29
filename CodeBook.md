@@ -29,7 +29,7 @@ All the details are in raw dataset
 >read.table("final_data_set.txt", header=TRUE)
 
 ###Cleaning of the data
-see other details in [README.md]()
+see other details in [README.md] (README.md)
 
 ##Description of the variables in the final_data_set.txt file
 General description of the file including:
